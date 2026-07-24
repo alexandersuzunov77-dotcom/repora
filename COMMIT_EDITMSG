@@ -1,0 +1,12 @@
+Import full exercise database and add a searchable exercise picker
+
+Replaces the 9 hand-picked library entries with all 184 exercises from
+the uploaded exercise database PDF, tagged with equipment/level across
+13 muscle groups. The library detail panel now shows live-computed est.
+1RM and last-done date instead of static placeholder stats.
+
+Program Builder's "+ add" now opens a searchable modal (search bar +
+muscle-group filters) over the full library instead of a bare prompt().
+
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_012Bx3W1svpiH1G5qHPgUd1Q
